@@ -1,3 +1,5 @@
+#pragma once
+
 #include "Adafruit_I2CDevice.h"
 
 //#define DEBUG_SERIAL Serial

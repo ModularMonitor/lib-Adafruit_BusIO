@@ -34,3 +34,5 @@ private:
 };
 
 #endif // Adafruit_I2CDevice_h
+
+#include "Adafruit_I2CDevice.ipp"

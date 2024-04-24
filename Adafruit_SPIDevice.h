@@ -142,3 +142,5 @@ private:
 };
 
 #endif // Adafruit_SPIDevice_h
+
+#include "Adafruit_SPIDevice.ipp"

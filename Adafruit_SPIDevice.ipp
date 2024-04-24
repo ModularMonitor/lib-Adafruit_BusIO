@@ -1,3 +1,5 @@
+#pragma once
+
 #include "Adafruit_SPIDevice.h"
 
 //#define DEBUG_SERIAL Serial
